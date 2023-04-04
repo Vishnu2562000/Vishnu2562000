@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, BlockChain, Solidity, Ethereum, AI**
 
-- 👨‍💻 All of my projects are available at [https://vishnu-vardhan-chandragiri.netlify.app/](https://vishnu-vardhan-chandragiri-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vishnu-vardhan-chandragiri.netlify.app/](https://vishnu-vardhan-chandragiri.netlify.app/)
 
 - 💬 Ask me about **ReactJS, BlockChain, Solidity, Ethereum, AI**
 
