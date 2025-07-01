@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan Chandragiri</h1>
 <h3 align="center">A Senior Software Engineer - Frontend from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu2562000&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu2562000" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnu2562000" alt="vishnu2562000" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS, NextJS, VueJS, VueX, Redux, Redux Tookit, StencilJS**
 
 - 💬 Ask me about **ReactJS, NextJS, VueJS, VueX, Redux, Redux Tookit, StencilJS**
